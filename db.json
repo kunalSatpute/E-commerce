@@ -1,0 +1,36 @@
+{
+  "seller": [
+    {
+      "name": "kunal",
+      "email": "kunal@gmail.com",
+      "password": "Test@123",
+      "id": "1"
+    },
+    {
+      "id": "05ef",
+      "name": "Test",
+      "email": "test@gmail.com",
+      "password": "Test@123"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "IPhone 15 pro max",
+      "price": "200000",
+      "color": "Grey",
+      "category": "Mobiles",
+      "description": "good mobile",
+      "imageUrl": "https://fastly.picsum.photos/id/435/1200/800.jpg?hmac=NRHmYJ-8T18f_jUu_zGUaS4pmJJW2baw-isXTEPVt7U"
+    },
+    {
+      "name": "Samsung S21 FE",
+      "price": "40000",
+      "color": "Black",
+      "category": "Mobiles",
+      "imageUrl": "https://fastly.picsum.photos/id/445/4256/2819.jpg?hmac=99qT1IPidZrzaXTgG1ixRRVwElWXUlNepU2k692G44c",
+      "description": "Best Mobile",
+      "id": "2"
+    }
+  ]
+}
